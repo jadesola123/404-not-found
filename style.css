@@ -1,0 +1,159 @@
+body{
+    background-color: white;
+}
+.side-head{
+    position: absolute;
+width: 133px;
+height: 25px;
+left: 77px;
+top: 40px;
+font-family: Inconsolata;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+color: #333333;
+
+}
+.main-heading{
+    position: absolute;
+width: 586px;
+height: 190px;
+left: 750px;
+top: 65px;
+font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 64px;
+line-height: 95px;
+letter-spacing: -0.035em;
+color: #333333;
+}
+.main-body{
+    position: absolute;
+width: 381px;
+height: 108px;
+left: 736px;
+top: 300px;
+
+font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 36px;
+letter-spacing: -0.035em;
+
+color: #4F4F4F;
+}
+/* button*/
+.btn{
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 500px;
+    background-color: #333333;
+    font-family: Space Mono;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 21px;
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+img{
+   position: absolute;
+    left: 250px;
+    bottom: 150px;
+}
+
+/* footer*/
+footer{
+    position: absolute;
+width: 226px;
+height: 17px;
+left: 607px;
+top: 1024px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+color: #333333;
+}
+
+@media only screen and (max-width: 815px){
+    img{
+        position: absolute;
+        left: 30px;
+        height: 270px;
+        width:500px;
+        top: 50px;
+    }
+    .main-heading{      
+position: absolute;
+width: 350px;
+height: 142px;
+left: 24px;
+top: 267px;
+font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 48px;
+line-height: 71px;
+letter-spacing: -0.035em;
+color: #333333;
+    }
+.main-body{
+    position: absolute;
+width: 328px;
+height: 81px;
+left: 23px;
+top: 490px;
+font-family: Space Mono;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 27px;
+letter-spacing: -0.035em;
+color: #4F4F4F;
+}
+.btn{
+    position: absolute;
+width: 216px;
+height: 68px;
+left: 24px;
+top: 596px;
+
+background: #333333;
+}
+
+.side-head{
+    position: absolute;
+width: 133px;
+height: 25px;
+left: 24px;
+top: 10px;
+
+font-family: Inconsolata;
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 25px;
+letter-spacing: -0.08em;
+text-transform: uppercase;
+
+color: #333333;
+
+}
+}
+@media only screen and (max-width: 480px){
+
+}
+
