@@ -44,17 +44,20 @@ This is the solution to the beginner challenge on devchallenges.io. The task is 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
+[Here](https://404jade.netlify.app/)
 - What was your experience?
+It was pretty straightforward and esy, the figma design made the css part esier, if anything was challenging, it was making the site as responsive as possible.
 - What have you learned/improved?
+I've definitely improved in my CSS for sure
 - Your wisdom? :)
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
+- [HTML](https://www.learn-html.org/)
+- [CSS](https://css-tricks.com/)
+
 
 ## Features
 
@@ -68,11 +71,12 @@ This application/site was created as a submission to a [DevChallenges](https://d
 <!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
+-
 - [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website | [jadekareem.hashnode.dev](https://jadekareem.hashnode.dev)
+- GitHub | [@jadesola123](https://github.com/jadesola123)
+- Twitter | [@jadecodes](https://twitter.com/jadecodes)
+ 

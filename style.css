@@ -66,8 +66,8 @@ color: #4F4F4F;
 }
 img{
    position: absolute;
-    left: 250px;
-    bottom: 150px;
+    left: 175px;
+    bottom: 155px;
 }
 
 /* footer*/
@@ -75,8 +75,8 @@ footer{
     position: absolute;
 width: 226px;
 height: 17px;
-left: 607px;
-top: 1024px;
+left: 770px;
+top: 684px;
 
 font-family: Montserrat;
 font-style: normal;
@@ -91,16 +91,16 @@ color: #333333;
 @media only screen and (max-width: 815px){
     img{
         position: absolute;
-        left: 30px;
+        left: 40px;
         height: 270px;
-        width:500px;
+        width:450px;
         top: 50px;
     }
     .main-heading{      
 position: absolute;
 width: 350px;
 height: 142px;
-left: 24px;
+left: 30px;
 top: 267px;
 font-family: Space Mono;
 font-style: normal;
@@ -114,8 +114,8 @@ color: #333333;
     position: absolute;
 width: 328px;
 height: 81px;
-left: 23px;
-top: 490px;
+left: 31px;
+top: 535px;
 font-family: Space Mono;
 font-style: normal;
 font-weight: normal;
@@ -127,11 +127,19 @@ color: #4F4F4F;
 .btn{
     position: absolute;
 width: 216px;
-height: 68px;
-left: 24px;
-top: 596px;
-
+height: 48px;
+left: 31px;
+top: 666px;
 background: #333333;
+font-family: Space Mono;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 21px;
+/* identical to box height */
+letter-spacing: -0.035em;
+text-transform: uppercase;
+color: #FFFFFF;
 }
 
 .side-head{
@@ -148,6 +156,22 @@ font-size: 24px;
 line-height: 25px;
 letter-spacing: -0.08em;
 text-transform: uppercase;
+
+color: #333333;
+
+}
+footer{
+    position: absolute;
+width: 226px;
+height: 17px;
+left: 75px;
+top: 750px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
 
 color: #333333;
 
